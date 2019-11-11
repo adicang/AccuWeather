@@ -1,0 +1,25 @@
+.img-day-forecast{
+    max-width: 100%;
+}
+
+.day-temp{
+    font-size: 20px;
+}
+
+.day-card{
+    margin-top:10px;
+    border: none!important;
+    margin-bottom: 10px;
+}
+
+.day-card:hover{
+     box-shadow: 0 0 11px rgba(33,33,33,.2);
+}
+
+.link-to-weather{
+    color: black! important;
+}
+
+.header-day{
+    border: none!important;
+}

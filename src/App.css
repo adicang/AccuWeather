@@ -1,0 +1,22 @@
+.App {
+    text-align: center;
+    background-image: url(assets/1850.jpg);
+    background-position: center!important;
+    background-repeat: no-repeat!important;
+    background-size: cover!important;
+    min-height: 100vh;
+}
+
+footer{
+    height: 70px;
+    margin-top:90px;
+}
+
+@media only screen and (max-width: 600px) {
+  footer{
+    height: 170px;
+      margin-top:350px;
+    }
+}
+
+

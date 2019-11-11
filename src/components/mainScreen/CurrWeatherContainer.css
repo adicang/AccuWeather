@@ -1,0 +1,62 @@
+.city-and-country{
+    text-align: left;
+    font-size: 20px;
+}
+
+.add-favorites{
+    text-align: right;
+}
+
+.weather-icon{
+    margin: auto;
+    max-width: 100%;
+    width: 150px;
+}
+
+.weather-center{
+    font-size: 22px;
+}
+
+.temp-and-text{
+    margin-top: -10px;
+    color: black!important;
+}
+
+.main-container{
+    margin-top: 20px;
+}
+
+.main-card{
+    border: none!important;
+}
+
+.loader-spinner{
+    margin: auto;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+.top-row{
+    color: black!important;
+}
+
+a:hover
+{
+     color:black;
+     text-decoration:none;
+     cursor:pointer;
+}
+
+.no-border{
+    border: none!important;
+}
+
+@media only screen and (max-width: 600px) {
+  .add-to-favorite-wrapper{
+    text-align: center;
+    margin-top: 15px;
+    }
+}

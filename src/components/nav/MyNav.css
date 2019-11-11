@@ -1,0 +1,29 @@
+.nav-item{
+     color: black;
+    font-family: 'Patua One', cursive!important;
+    margin-right: 10px;
+}
+
+.nav-item:hover {
+  color: dimgray;
+}
+
+.item-two {
+    margin-left: 50px;
+}
+
+.title {
+    font-family: 'Patua One', cursive!important;
+}
+
+.ui.toggle.checkbox input:checked ~ .box:before,
+.ui.toggle.checkbox input:checked ~ label:before {
+  background-color: pink !important;
+}
+
+@media only screen and (max-width: 767px) {
+    .item-two {
+        margin-left: 0;
+        margin-top: 10px;
+    }
+}
