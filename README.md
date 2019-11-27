@@ -2,7 +2,7 @@
 
 ## AccuWeather React Project
 
-##### **IMPORTANT:** Please notice that the Accuweather API has only 50 calls. 
+Please notice that the Accuweather API has only 50 calls. 
 
 ## App architecture seperated by components
 The following tree shows the structure of the components in the whole app.
